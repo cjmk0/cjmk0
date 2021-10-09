@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:191,Ilayaraja - Aadum Adi
+http://192.168.1.1:8200/MediaItems/24.mp3
+#EXTINF:274,Ilayaraja - Aagaya gangai
+http://192.168.1.1:8200/MediaItems/26.mp3
+#EXTINF:306,Ilayaraja - Aalappol Velappol
+http://192.168.1.1:8200/MediaItems/28.mp3
+#EXTINF:271,Ilayaraja - Aanandha Thensindhum
+http://192.168.1.1:8200/MediaItems/30.mp3
+#EXTINF:322,The Sunday Duo - The Nearness Of You
+http://192.168.1.1:8200/MediaItems/32.mp3
