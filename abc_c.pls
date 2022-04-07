@@ -1,5 +1,5 @@
 [Playlist]
-File1=http://opml.radiotime.com/Tune.ashx?id=s99441&formats=aac,ogg,mp3,wmpro,wma,wmvoice,hls&partnerId=16&serial=653bb94f853b1d76fb2e82f696ab64b6
+File1=http://www.abc.net.au/res/streaming/audio/mp3/classic_fm.pls
 Title1=ABC Classical
 Length1=-1
 
