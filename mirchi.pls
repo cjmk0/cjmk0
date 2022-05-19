@@ -1,5 +1,5 @@
 [Playlist]
-File1=https://tamil.tanradio.com:7002/1
+File1=http://tamil.tanradio.com:7002/1
 Title1=MirchiFM
 Length1=-1
 
