@@ -1,5 +1,5 @@
 [Playlist]
-File1=http://213.32.90.126:5006/1
+File1=http://tamil.tanradio.com:7002/4
 Title1=Big FM
 Length1=-1
 
