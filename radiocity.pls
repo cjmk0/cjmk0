@@ -1,6 +1,6 @@
 
 [Playlist]
-File1=https://tamil.tanradio.com:7002/5
+File1=http://tamil.tanradio.com:7002/5
 Title1=Radio City
 Length1=-1
 
